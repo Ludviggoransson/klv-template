@@ -1,4 +1,6 @@
 # ludvig-template
+Simple template the get a structured project. 
+
 # Default settings
 ```setup.py```
 
