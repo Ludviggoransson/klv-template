@@ -2,6 +2,6 @@
 
 
 # To install
-'''
+```
 pip install -e ".[dev]"
-'''
+```
