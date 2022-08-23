@@ -15,6 +15,6 @@ pip install -e ".[dev]"
 ```
 or 
 ```
-python3 -m install -e ".[dev]"
+python3 -m pip install -e ".[dev]"
 ```
 
