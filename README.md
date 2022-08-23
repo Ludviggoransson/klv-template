@@ -11,3 +11,8 @@ Put your repo name in the setup-function under argument name.
 ```
 pip install -e ".[dev]"
 ```
+or 
+```
+python3 -m install -e ".[dev]"
+```
+
